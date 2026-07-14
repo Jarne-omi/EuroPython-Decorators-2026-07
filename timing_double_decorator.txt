@@ -1,0 +1,3 @@
+mysum took 0.000000 seconds
+mysum took 0.000000 seconds
+mysum took 1.000577 seconds
